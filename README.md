@@ -49,6 +49,7 @@ Generating this information will take several seconds, but will now start loadin
 
 ## Expected Output: 
  Calculating Results...
+ 
     TOP THREE ARTICLES BY PAGE VIEWS:
         (1) "Candidate is jerk, alleges rival" with 338647 views
         (2) "Bears love berries, alleges bear" with 253801 views
